@@ -1,0 +1,13 @@
+body {
+  transition: all 0.2s;
+}
+h1 {
+  text-align: center;
+}
+
+#addBookBtn {
+  margin: auto;
+}
+#addBook {
+  max-width: 800px;
+}
